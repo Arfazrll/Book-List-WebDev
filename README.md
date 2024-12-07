@@ -1,4 +1,4 @@
-# 📚 Daftar Buku
+# 📚 Book List WebDev
 
 **Daftar Buku** is a web-based application built with **ReactJS** that allows users to view a list of books. The app fetches book data from an **external API** and presents it to the user in an interactive and responsive interface.
 
@@ -46,8 +46,6 @@ Install the required dependencies using **npm** or **yarn**:
 
 ```bash
 npm install
-# or
-yarn install
 ```
 
 ### 3. Run the Application
@@ -56,8 +54,6 @@ To run the app locally:
 
 ```bash
 npm start
-# or
-yarn start
 ```
 
 The app will open in your browser at `http://localhost:3000`.
@@ -87,7 +83,6 @@ This application relies on an **external API** to manage the book data. You can 
       "genre": "Fantasy",
       "publishedYear": "1937"
     },
-    ...
   ]
   ```
 
