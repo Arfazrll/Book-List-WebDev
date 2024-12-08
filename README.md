@@ -1,6 +1,6 @@
 # 📚 Book List WebDev
 
-**Daftar Buku** is a web-based application built with **ReactJS** that allows users to view a list of books. The app fetches book data from an **external API** and presents it to the user in an interactive and responsive interface.
+**Book List** is a web-based application built with **ReactJS** that allows users to view a list of books. The app fetches book data from an **external API** and presents it to the user in an interactive and responsive interface.
 
 ---
 
